@@ -82,5 +82,3 @@ python gesture_controller.py
 
 **Neha Adepu**
 BTech – Artificial Intelligence & Machine Learning
-
-```
